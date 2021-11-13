@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://andy094.github.io</id>
     <title>老林个人站</title>
-    <updated>2021-11-13T13:04:30.159Z</updated>
+    <updated>2021-11-13T14:41:51.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://andy094.github.io"/>
     <link rel="self" href="https://andy094.github.io/atom.xml"/>
@@ -10,12 +10,14 @@
     <icon>https://andy094.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 老林个人站</rights>
     <entry>
-        <title type="html"><![CDATA[个人NAS J5005方案]]></title>
+        <title type="html"><![CDATA[DSM7.0安装期间一些问题及解决方法]]></title>
         <id>https://andy094.github.io/post/ge-ren-nas-j5005-fang-an/</id>
         <link href="https://andy094.github.io/post/ge-ren-nas-j5005-fang-an/">
         </link>
         <updated>2021-11-13T12:59:30.000Z</updated>
-        <content type="html"><![CDATA[<p>偶然从咸鱼捡到一张伊拉克橙色的J5005，加上黑群晖7.0引导愈发成熟开始了折腾之旅</p>
+        <content type="html"><![CDATA[<p>关于人脸识别<br>
+人脸识别<br>
+关于SATA端口禁用：</p>
 ]]></content>
     </entry>
 </feed>
