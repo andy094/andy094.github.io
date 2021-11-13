@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://andy094.ghithub.io</id>
-    <title>老林个人战</title>
-    <updated>2021-11-08T02:58:25.840Z</updated>
+    <id>https://andy094.github.io</id>
+    <title>老林个人站</title>
+    <updated>2021-11-13T12:37:31.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://andy094.ghithub.io"/>
-    <link rel="self" href="https://andy094.ghithub.io/atom.xml"/>
-    <logo>https://andy094.ghithub.io/images/avatar.png</logo>
-    <icon>https://andy094.ghithub.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 老林个人战</rights>
+    <link rel="alternate" href="https://andy094.github.io"/>
+    <link rel="self" href="https://andy094.github.io/atom.xml"/>
+    <logo>https://andy094.github.io/images/avatar.png</logo>
+    <icon>https://andy094.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 老林个人站</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://andy094.ghithub.io/post/hello-gridea/</id>
-        <link href="https://andy094.ghithub.io/post/hello-gridea/">
+        <id>https://andy094.github.io/post/hello-gridea/</id>
+        <link href="https://andy094.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
