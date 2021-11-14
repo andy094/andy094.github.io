@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://andy094.github.io</id>
-    <title>老林个人站</title>
-    <updated>2021-11-13T14:41:51.832Z</updated>
+    <title>1+1LIN</title>
+    <updated>2021-11-14T10:34:31.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://andy094.github.io"/>
     <link rel="self" href="https://andy094.github.io/atom.xml"/>
+    <subtitle>记录生活</subtitle>
     <logo>https://andy094.github.io/images/avatar.png</logo>
     <icon>https://andy094.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 老林个人站</rights>
+    <rights>All rights reserved 2021, 1+1LIN</rights>
     <entry>
         <title type="html"><![CDATA[DSM7.0安装期间一些问题及解决方法]]></title>
         <id>https://andy094.github.io/post/ge-ren-nas-j5005-fang-an/</id>
